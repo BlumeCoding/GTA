@@ -1,5 +1,5 @@
 # PS4 GTA V Menu Base
-A mod menu GUI for PS4 GTA V built on top of [my native caller](https://github.com/2much4u/PS4-GTA-V-Native-Caller).
+A mod menu GUI for PS4 GTA V built on top of [2much4u`s Native Caller](https://github.com/2much4u/PS4-GTA-V-Native-Caller).
 
 ## Pictures
 <img src="https://i.gyazo.com/f214b89550089a50e90923aa59632625.png" />
